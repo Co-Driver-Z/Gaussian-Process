@@ -1,11 +1,10 @@
 # Gaussian Process (By Matlab)
-<---------------------------------------------Gaussian Process----------------------------------------------------->  
+<---------------------------------------------Gaussian Process------------------------------------------------->  
 Author: Wow-zheng                                                                   (https://github.com/Wow-zheng)  
 Illustrate:  
-&emsp;This code shows how to establish a one-dimensional Gaussian  
-process regression model in the most concise way, and the  
-multi-dimensional Gaussian process regression model and related  
-formulas will be updated when there is time.  
+&emsp;This code shows how to establish a one-dimensional Gaussian process regression model in the most  
+concise way, and the multi-dimensional Gaussian process regression model and related formulas will be updated when  
+there is time.  
 Mail:  
 &emsp;zheng_zhang163@163.com  
 <--------------------------------------------SimpleExample---------------------------------------------------->
